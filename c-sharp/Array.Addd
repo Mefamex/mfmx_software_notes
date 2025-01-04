@@ -36,5 +36,6 @@ class Program
         // her tür değişkende uygulanabilirir dizisine değer ekle
         Addd(ref myStringArray, "Hello", "World");
         Console.WriteLine("String Dizi: " + string.Join(", ", myStringArray)); // Çıktı: String Dizi: Hello, World
+        Console.WriteLine("String Dizi: "+ myStringArray.ToArray().ToString();
     }
 }
