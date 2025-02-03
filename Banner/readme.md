@@ -1,11 +1,15 @@
 # BANNER-SCRIPTS 
 
-## Contents - İçindekiler
+
+<h1 align="center">Contents</h1> 
+
 - [BANNER-SCRIPTS](#banner-scripts)
-  - [Contents - İçindekiler](#contents---i̇çindekiler)
   - [Purposes](#purposes)
   - [Amaçları](#amaçları)
 
+
+
+<h1 align="center">İçindekiler</h1>
 
 
 <br/> 
