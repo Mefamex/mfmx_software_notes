@@ -1,4 +1,17 @@
 # BANNER-SCRIPTS
+
+
+<br/>
+
+
+## İçindekiler
+- [Amaçları](##Amaçları)
+- [Python-Banner](#Python-Banner)
+
+
+<br/>
+
+
 ## Amaçları
 - Kodun Amacını Açıklar:
 > Kodun ne işe yaradığını, hangi problemi çözdüğünü veya hangi işlevi yerine getirdiğini net bir şekilde ifade eder.
@@ -22,8 +35,8 @@
 > Kodla ilgili ek bilgiler, notlar veya uyarılar eklemek, kodun daha iyi anlaşılmasına ve olası sorunların önlenmesine yardımcı olur.
 
 
-## İçindekiler
-- [Python-Banner](#Python-Banner)
+<br/>
+
 
 # Python-Banner
 ```python
