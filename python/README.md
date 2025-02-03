@@ -1,4 +1,20 @@
-# first-run-dependences.py
+<h1 align="center" id="python-notes"> PYTHON NOTES </h1>
+
+> [ÜST DİZİN  (main) ](../README.md)
+
+
+<br>
+
+
+
+## first-run-dependencies.py
+
+* Python bağımlılıklarının yüklü olup olmadığını kontrol eder.
+* Yüklü olmayan bağımlılıkları yükleme komutunu Eğer bağımlılıklar yüklü değilse, otomatik olarak yükler ve ardından programı yeniden başlatır.
+* Bu sayede, kullanıcıların bağımlılıkları manuel olarak yüklemesi gerekmez.
+* [Koda git](first-run-dependences.py)
+
+
 ```python
 try:
   import selenium
