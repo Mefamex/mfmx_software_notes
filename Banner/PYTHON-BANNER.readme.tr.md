@@ -1,62 +1,62 @@
 # PYTHON-BANNER
-```python 
-#!/usr/bin/env python3 
-# -*- coding: utf-8 -*- 
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-""" 
-Project Name: Sample Project (v1.0.0) 
+"""
+Proje Adı: Örnek Proje (v1.0.0)
 
-Description: 
-  This project is [a concise sentence explaining the purpose and core functionality of the project]. 
-  [Additional information highlighting the project's capabilities, features, or use cases]. 
+Açıklama:
+  Bu proje, [projenin amacını ve temel işlevini açıklayan kısa ve öz bir cümle].
+  [Projenin yeteneklerini, özelliklerini veya kullanım alanlarını vurgulayan ek bilgiler].
 
-Features: 
-  - You can write the features either item by item or as text 
+Özellikler:
+  - Özellikleri ister madde madde isterseni metin olarak yazabilirsiniz
 
-Author (Owner \ Developers \ Contributors): 
-  - [First Name] ([e-mail address]) - [Organization/Affiliation] 
-  - [Username] 
-    Github \ LinkedIn \ website \ e-mail : [information] 
+Yazar (Sahip \ Geliştiriciler \ Katkıda Bulunanlar): 
+  - [Ad SOYAD] ([e-posta adresi]) - [Kuruluş/Bağlantı]
+  - [Kullanıcı Adı]
+    Github \ LinkedIn \ website \ e-posta : [bilgiler]
 
-License: MIT License (https://opensource.org/licenses/MIT) 
+Lisans: MIT Lisansı (https://opensource.org/licenses/MIT)
 
-History: 
-  - Creation date : YYYY-MM-DD 
-  - Modification \ Update \ 
+Tarihçe:
+  - Oluşturma tarihi    : YYYY-MM-DD
+  - Değiştirme \ Güncelleme \ 
 
-Dependencies: 
-  - Python 3.7 or later 
-  - [Required libraries and versions] 
+Bağımlılıklar:
+  - Python 3.7 veya üstü
+  - [Gerekli kütüphaneler ve versiyonları]
 
-Installation: 
-  - Project clone: ​​`git clone [repo address]` 
-  - Install required dependencies: `pip install -r requirements.txt` 
+Kurulum:
+  - Projeyi klonlayın: `git clone [repo adresi]`
+  - Gerekli bağımlılıkları yükleyin: `pip install -r requirements.txt`
 
-Usage: 
-  - To run the project: `python main.py` 
-  - [Additional usage instructions if needed] 
+Kullanım:
+  - Projeyi çalıştırmak için: `python main.py`
+  - [Gerekirse ek kullanım talimatları]
 
-Documentation: 
-  - For detailed documentation: `README.md` 
+Dokümantasyon:
+  - Detaylı dokümantasyon için: `README.md`
 
-Source Code:
-  - You can access the source codes of the project here: `[repo address]` 
+Kaynak Kodu:
+  - Projenin kaynak kodlarına buradan ulaşabilirsiniz: `[repo adresi]`
 
-Contact: 
-  - For questions or feedback about the project: `[email address]` 
+İletişim:
+  - Proje ile ilgili sorularınız veya geri bildirimleriniz için: `[e-posta adresi]`
 
-Copyright: 
-  - © [Year] [Organization Name]. All rights reserved. 
+Telif Hakkı:
+  - © [Yıl] [Kuruluş Adı]. Tüm hakları saklıdır.
 
-Notes: 
-  - This project, [additional information or notices about the project]. 
-  - If you want to contribute, check out `CONTRIBUTING.md`. 
+Notlar:
+  - Bu proje, [proje hakkında ek bilgiler veya uyarılar].
+  - Katkıda bulunmak isterseniz, `CONTRIBUTING.md` dosyasına göz atın.
 
-Disclaimer: 
-  This software is provided "as is" without warranty of any kind. 
-  The author is not responsible for any damages or losses resulting from the use of this software 
-    . 
-""" 
+Yasal Uyarı:
+  Bu yazılım, herhangi bir türde garanti olmaksızın "olduğu gibi" sağlanır.
+  Yazar, bu yazılımın kullanımından kaynaklanan herhangi bir hasardan veya kayıptan
+    sorumlu değildir.
+"""
 
-# Main codes of the project go here 
+# Projenin ana kodları buraya gelir
 ```
