@@ -35,15 +35,19 @@ Açıklama:
   Bu proje, [projenin amacını ve temel işlevini açıklayan kısa ve öz bir cümle].
   [Projenin yeteneklerini, özelliklerini veya kullanım alanlarını vurgulayan ek bilgiler].
 
-Geliştiriciler:
-  - [Ad Soyad] ([e-posta adresi]) - [Kuruluş/Bağlantı]
-  - [Ad Soyad] ([e-posta adresi]) - [Kuruluş/Bağlantı]
+Özellikler:
+  - Özellikleri ister madde madde isterseni metin olarak yazabilirsiniz
 
-Katkıda Bulunanlar:
-  - [Ad Soyad] ([e-posta adresi])
-  - [Ad Soyad] ([e-posta adresi])
+Yazar (Sahip \ Geliştiriciler \ Katkıda Bulunanlar): 
+  - [Ad SOYAD] ([e-posta adresi]) - [Kuruluş/Bağlantı]
+  - [Kullanıcı Adı]
+    Github \ LinkedIn \ website \ e-posta : [bilgiler]
 
 Lisans: MIT Lisansı (https://opensource.org/licenses/MIT)
+
+Tarihçe:
+  - Oluşturma tarihi    : YYYY-MM-DD
+  - Değiştirme \ Güncelleme \ 
 
 Bağımlılıklar:
   - Python 3.7 veya üstü
@@ -72,6 +76,11 @@ Telif Hakkı:
 Notlar:
   - Bu proje, [proje hakkında ek bilgiler veya uyarılar].
   - Katkıda bulunmak isterseniz, `CONTRIBUTING.md` dosyasına göz atın.
+
+Yasal Uyarı:
+  Bu yazılım, herhangi bir türde garanti olmaksızın "olduğu gibi" sağlanır.
+  Yazar, bu yazılımın kullanımından kaynaklanan herhangi bir hasardan veya kayıptan
+    sorumlu değildir.
 """
 
 # Projenin ana kodları buraya gelir
