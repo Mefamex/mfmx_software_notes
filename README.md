@@ -13,7 +13,7 @@
 
 <h2 align="center" id="tr"> Türkçe</h2>
 
-Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak için oluşturdum
+Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak için oluşturdum.
 
 
 ### İçindekiler
@@ -39,7 +39,7 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
 
 <h2 align="center" id="en"> English</h2>
 
-I created this repository to keep some of my notes about programming languages and frameworks
+I created this repository to keep some of my notes about programming languages and frameworks.
 
 
 ### Contents
