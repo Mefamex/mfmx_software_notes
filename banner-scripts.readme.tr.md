@@ -22,6 +22,8 @@
 > Kodla ilgili ek bilgiler, notlar veya uyarılar eklemek, kodun daha iyi anlaşılmasına ve olası sorunların önlenmesine yardımcı olur.
 
 
+## İçindekiler
+- [Python-Banner](#Python-Banner)
 
 # Python-Banner
 ```python
