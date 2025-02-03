@@ -1,4 +1,13 @@
 # BANNER-SCRIPTS 
+
+## Contents 
+- [Purposes](##Purposes) 
+- [Python-Banner](#Python-Banner) 
+
+
+<br/> 
+
+
 ## Purposes 
 - Explains the Purpose of the Code: 
 > Clearly states what the code does, what problem it solves, or what function it performs. 
@@ -20,6 +29,9 @@
 
 - Adding Additional Information and Notes: 
 > Adding additional information, notes, or warnings about the code helps in better understanding the code and prevents potential problems. 
+
+
+<br/> 
 
 
 
