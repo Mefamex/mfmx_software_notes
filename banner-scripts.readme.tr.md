@@ -1,9 +1,5 @@
 # BANNER-SCRIPTS
 
-
-<br/>
-
-
 ## İçindekiler
 - [Amaçları](##Amaçları)
 - [Python-Banner](#Python-Banner)
