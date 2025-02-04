@@ -9,7 +9,7 @@
 
 * [Docstring Projects](#docstring-projects)
   - [Amaçları](#amaçları)
-  - [Yaml docs (project.yaml)](Project.yaml.readme.tr.md)
+  - [Yaml Docs (project.yaml)](Project.yaml.readme.tr.md)
   - [Python](PYTHON-DOCSTRING.readme.tr.md)
   - [C# ](CS-DOCSTRING.readme.tr.md)
 
