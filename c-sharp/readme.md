@@ -1,4 +1,4 @@
-<h1 align="center" id="c-sharp"> C-SHARP NOTES </h1>
+<h1 align="center" id="c-sharp"> C# NOTES </h1>
 
 > [ÜST DİZİN  (main) ](../README.md)
 

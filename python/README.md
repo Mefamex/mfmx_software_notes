@@ -7,12 +7,12 @@
 
 
 
-## first-run-dependencies.py
+## First Run Dependencies
 
 * Python bağımlılıklarının yüklü olup olmadığını kontrol eder.
 * Yüklü olmayan bağımlılıkları yükleme komutunu Eğer bağımlılıklar yüklü değilse, otomatik olarak yükler ve ardından programı yeniden başlatır.
 * Bu sayede, kullanıcıların bağımlılıkları manuel olarak yüklemesi gerekmez.
-* [Koda git](first-run-dependences.py)
+* [Koda git](first-run-dependencies.py)
 
 
 ```python

@@ -1,8 +1,11 @@
-# PYTHON-BANNER
+<h1 align="center" id="python-banner"> PYTHON BANNER </h1>
 
-> [UPPER DIRECTORY (Banner) ](readme.md#banner-scripts)
+
+> [UPPER DIRECTORY (Banner) ](readme.md#banner)
 
 <br/>
+
+
 
 <h3> Python</h3>
 

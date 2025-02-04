@@ -11,7 +11,7 @@
 
 
 
-<h2 align="center" id="tr"> Türkçe</h2>
+<h2 align="center" id="tr"> Türkçe - TR</h2>
 
 Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak için oluşturdum.
 
@@ -25,7 +25,7 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
     - [Array.Add](c-sharp/readme.md/##Array.Adddd)
     - [Performans-Test](c-sharp/readme.md/##Performans-Test)
 * [PYTHON](python/readme.md)
-    - [ilk çalıştırma gereksinimler](python/README.md##first-run-dependencies.py)
+    - [ilk çalıştırma gereksinimler](python/README.md#first-run-dependencies)
 
 
 
@@ -37,7 +37,7 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
 
 
 
-<h2 align="center" id="en"> English</h2>
+<h2 align="center" id="en"> English - EN</h2>
 
 I created this repository to keep some of my notes about programming languages and frameworks.
 
@@ -51,4 +51,4 @@ I created this repository to keep some of my notes about programming languages a
     - [Array.Add](c-sharp/readme.md/##Array.Adddd)
     - [Performans-Test](c-sharp/readme.md/##Performans-Test)
 * [PYTHON](python/readme.md)
-    - [First run dependencies](python/README.md##first-run-dependencies.py)
+    - [First run dependencies](python/README.md#first-run-dependencies)

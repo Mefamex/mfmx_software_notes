@@ -5,22 +5,22 @@
 <br>
 
 
-<h1 align="center">İçindekiler [TR]</h1>
+<h1 align="center"> İçindekiler [TR]</h1>
 
 * [BANNER-SCRIPTS](#banner)
   - [Amaçları](#amaçları)
-  - [Python-Banner](PYTHON-BANNER.readme.tr.md#python-banner)
+  - [Python Banner](PYTHON-BANNER.readme.tr.md#python-banner)
 
 
 
 <br><br>
 
 
-<h1 align="center">Contents [EN]</h1> 
+<h1 align="center"> Contents [EN]</h1> 
 
 * [BANNER-SCRIPTS](#banner)
   - [Purposes](#purposes)
-  - [Python-Banner](PYTHON-BANNER.readme.en.md#python-banner)
+  - [Python Banner](PYTHON-BANNER.readme.en.md#python-banner)
 
 
 
