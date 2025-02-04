@@ -5,7 +5,8 @@
 
 <br/>
 
-
+* YAML ve TOML dosyaları, yapılandırma verilerini saklamak için yaygın olarak kullanılır.
+* YAML, insan tarafından okunabilir bir format sunarken, TOML ise daha basit bir yapılandırma dosyası formatıdır ve genellikle projelerin bağımlılıklarını ve ayarlarını tanımlamak için tercih edilir. 
 
 <h3> project.yaml </h3>
 

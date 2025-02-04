@@ -5,7 +5,8 @@
 
 <br/>
 
-
+* YAML and TOML files are commonly used to store configuration data.
+* While YAML provides a human-readable format, TOML offers a simpler configuration file format and is often preferred for defining project dependencies and settings.
 
 <h3> project.yaml </h3>
 
