@@ -2,6 +2,7 @@
 
 > [ÜST DİZİN  (main) ](../README.md)
 
+<hr>
 <br>
 
 

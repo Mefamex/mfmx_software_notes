@@ -3,6 +3,7 @@
 
 > [UPPER DIRECTORY (Docstring-Project) ](readme.md)
 
+<hr>
 <br/>
 
 

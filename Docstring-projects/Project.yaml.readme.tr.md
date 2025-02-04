@@ -3,6 +3,7 @@
 
 > [UPPER DIRECTORY (Docstring-Project) ](readme.md)
 
+<hr>
 <br/>
 
 * YAML ve TOML dosyaları, yapılandırma verilerini saklamak için yaygın olarak kullanılır.

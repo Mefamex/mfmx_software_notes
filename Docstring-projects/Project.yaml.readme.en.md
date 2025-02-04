@@ -3,6 +3,7 @@
 
 > [UPPER DIRECTORY (Docstring-Project) ](readme.md)
 
+<hr>
 <br/>
 
 * YAML and TOML files are commonly used to store configuration data.
