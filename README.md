@@ -21,7 +21,9 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
 
 * [Docstring Projects](Docstring-projects/readme.md)
     - [Amaçları](Docstring-projects/readme.md#amaçları)
-    - [Python-Docstring](Docstring-projects/PYTHON-DOCSTRING.readme.tr.md)
+    - [Yaml](Docstring-projects/Project.yaml.readme.tr.md)
+    - [Python](Docstring-projects/PYTHON-DOCSTRING.readme.tr.md)
+    - [C#](Docstring-projects/CS-DOCSTRING.readme.tr.md)
 * [C-SHARP](c-sharp/readme.md)
     - [Array.Add](c-sharp/readme.md/##Array.Adddd)
     - [Performans-Test](c-sharp/readme.md/##Performans-Test)
@@ -47,7 +49,9 @@ I created this repository to keep some of my notes about programming languages a
 
 * [Docstring Projects](Docstring-projects/readme.md)
     - [Purposes](Docstring-projects/readme.md#purposes)
+    - [Yaml](Docstring-projects/Project.yaml.readme.en.md)
     - [Python-Docstring](Docstring-projects/PYTHON-DOCSTRING.readme.en.md)
+    - [C#](Docstring-projects/CS-DOCSTRING.readme.en.md)
 * [C-SHARP](c-sharp/readme.md)
     - [Array.Add](c-sharp/readme.md/##Array.Adddd)
     - [Performans-Test](c-sharp/readme.md/##Performans-Test)

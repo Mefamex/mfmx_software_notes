@@ -9,7 +9,9 @@
 
 * [Docstring Projects](#docstring-projects)
   - [Amaçları](#amaçları)
-  - [Python Docstring [TR]](PYTHON-DOCSTRING.readme.tr.md)
+  - [Yaml docs (project.yaml)](Project.yaml.readme.tr.md)
+  - [Python](PYTHON-DOCSTRING.readme.tr.md)
+  - [C# ](CS-DOCSTRING.readme.tr.md)
 
 
 
@@ -20,7 +22,9 @@
 
 * [Docstring Projects](#docstring-projects)
   - [Purposes](#purposes)
-  - [Python Docstring [EN]](PYTHON-DOCSTRING.readme.en.md)
+  - [Yaml Docs(project.yaml)](Project.yaml.readme.en.md)
+  - [Python](PYTHON-DOCSTRING.readme.en.md)
+  - [C#](CS-DOCSTRING.readme.en.md)
 
 
 
