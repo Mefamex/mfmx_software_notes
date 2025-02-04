@@ -1,25 +1,56 @@
-# ==============================================================================
-# author:   Mefamex
-# website:  https://mefamex.com/
-# licence:  MIT
-# ==============================================================================
-#                   Bağımlılık Yükleyici ve Kontrolcü
-#
-# Bu betik, gerekli Python bağımlılıklarının yüklü olup olmadığını kontrol eder.
-# Eğer bağımlılıklar yüklü değilse, otomatik olarak yükler ve ardından programı
-# yeniden başlatır. Bu sayede, kullanıcıların bağımlılıkları manuel olarak
-# yüklemesi gerekmez.
-#
-# Kullanım:
-#   Betiği çalıştırdığınızda, bağımlılıklar kontrol edilecek ve gerekirse
-#   yüklenecektir. Ardından program yeniden başlatılacak ve normal işleyişine
-#   devam edecektir.
-#
-# Not:
-#   * Bu betik, pip kullanarak bağımlılıkları yükler. Bu nedenle, sisteminizde
-#                                         pip'in yüklü olduğundan emin olun.
-#   * Bağımlılıkları değiştirerek kullanın. 
-# ==============================================================================
+#!/usr/bin/env python3 
+# -*- coding: utf-8 -*- 
+
+__name__ = "Bağımlılık Yükleyici ve Kontrolcü"
+__version__ = "1.0.0"
+__author__ = "Mefamex"
+__url__ = "https://mefamex.com/"
+__license__ = "MIT"
+__description__ = "Bağımlılık Yükleyici ve Kontrolcü"
+__url_github__ = "https://github.com/Mefamex/mfmx_software_notes/blob/main/python/first-run-dependencies.py"
+__status__ = "Prototype" 
+__date__ = "2024-02-03" 
+__date_modify__ = "2024-02-04" 
+__python_version__ = ">=3.8" 
+__dependencies__ = {
+    "python": ">=3.8",
+}
+
+__doc__ = """
+Project Name: Bağımlılık Yükleyici ve Kontrolcü
+
+Description:
+Bu proje, Python bağımlılıklarının otomatik olarak yüklenmesini ve kontrol edilmesini sağlamak için geliştirilmiştir.
+Proje, Python bağımlılıklarının kontrol edilmesini ve gerektiğinde yüklenmesini sağlar.
+
+Features: 
+    - Otomatik bağımlılık kontrolü ve yükleme
+    - Python bağımlılıklarının kontrol edilmesi
+
+Usage:
+Proje, Python bağımlılıklarının kontrol edilmesini ve gerektiğinde yüklenmesini sağlar. Proje, Python 3.8 veya üstü sürümlerde çalışır.
+
+Requirements:
+- Python 3.8 veya üstü
+
+License:
+MIT License (https://opensource.org/licenses/MIT)
+
+Author:
+Mefamex (info@mefamex.com) (https://mefamex.com)
+
+Contributors:
+Devxar (https://devxar.com)
+
+History:
+- 1.0.0 (2025-02-03): Initial release
+
+
+Disclaimer: 
+    Bu yazılım "olduğu gibi" sunulmaktadır. Yazar, bu yazılımın kullanımı sonucunda ortaya çıkan herhangi bir zarardan sorumlu değildir.
+"""
+
+
 
 
 import os, sys, subprocess   

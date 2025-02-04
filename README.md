@@ -7,8 +7,9 @@
     - [Türkçe - TR](#tr) 
     - [English - EN](#en) 
 
-<br>
 
+<hr>
+<br>
 
 
 <h2 align="center" id="tr"> Türkçe - TR</h2>
@@ -18,16 +19,16 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
 
 ### İçindekiler
 
-* [BANNER-SCRIPTS](Banner/readme.md#banner)
-    - [Amaçları](Banner/readme.md#amaçları)
-    - [Python-Banner](Banner/PYTHON-BANNER.readme.tr.md)
+* [Docstring Projects](Docstring-projects/readme.md)
+    - [Amaçları](Docstring-projects/readme.md#amaçları)
+    - [Python-Docstring](Docstring-projects/PYTHON-DOCSTRING.readme.tr.md)
 * [C-SHARP](c-sharp/readme.md)
     - [Array.Add](c-sharp/readme.md/##Array.Adddd)
     - [Performans-Test](c-sharp/readme.md/##Performans-Test)
 * [PYTHON](python/readme.md)
     - [ilk çalıştırma gereksinimler](python/README.md#first-run-dependencies)
 
-
+<hr>
 
 
 
@@ -35,7 +36,7 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
 
 
 
-
+<hr>
 
 <h2 align="center" id="en"> English - EN</h2>
 
@@ -44,11 +45,13 @@ I created this repository to keep some of my notes about programming languages a
 
 ### Contents
 
-* [BANNER-SCRIPTS](Banner/readme.md#banner)
-    - [Amaçları](Banner/readme.md#amaçları)
-    - [Python-Banner](Banner/PYTHON-BANNER.readme.en.md)
+* [Docstring Projects](Docstring-projects/readme.md)
+    - [Purposes](Docstring-projects/readme.md#purposes)
+    - [Python-Docstring](Docstring-projects/PYTHON-DOCSTRING.readme.en.md)
 * [C-SHARP](c-sharp/readme.md)
     - [Array.Add](c-sharp/readme.md/##Array.Adddd)
     - [Performans-Test](c-sharp/readme.md/##Performans-Test)
 * [PYTHON](python/readme.md)
     - [First run dependencies](python/README.md#first-run-dependencies)
+
+<hr>

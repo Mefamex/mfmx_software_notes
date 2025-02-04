@@ -2,6 +2,7 @@
 
 > [ÜST DİZİN  (main) ](../README.md)
 
+<hr>
 
 <br>
 
@@ -22,3 +23,5 @@ except ImportError:
   subprocess.check_call([sys.executable, "-m", "pip", "install", "selenium"])
 os.execl(sys.executable, sys.executable, *sys.argv)
 ```
+
+<hr>

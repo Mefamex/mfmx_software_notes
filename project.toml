@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ProjeAdiniz"  # Projenizin adını buraya girin
+version = "0.1.0"  # Projenizin versiyonunu buraya girin (Örneğin: 0.1.0, 1.0.0, vb.)
+description = "Proje açıklaması buraya" # Projenizin kısa bir açıklamasını buraya yazın
+authors = [{name = "Ad Soyad", email = "email@example.com"}]  # Yazar bilgilerini buraya girin
+license = {file = "LICENSE"} # Lisans dosyanızın adını buraya girin (Örneğin: LICENSE, MIT-LICENSE gibi)
+readme = "README.md" # README dosyanızın adını buraya girin (Örneğin: README.md, README gibi)
+keywords = ["selenium", "webdriver", "pandas", "openpyxl", "web scraping"] # Projenizle ilgili anahtar kelimeler
+classifiers = [ # Projenizin hangi kategorilere girdiğini belirtin
+    "Development Status :: 3 - Alpha", # Geliştirme aşamasını belirtir (Örneğin: 1 - Planning, 2 - Pre-Alpha, 3 - Alpha, 4 - Beta, 5 - Production/Stable)
+    "Intended Audience :: Developers", # Hedef kitlenizi belirtir
+    "License :: OSI Approved :: MIT License", # Kullandığınız lisansı belirtir
+    "Programming Language :: Python :: 3", # Python versiyonunu belirtir
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+dependencies = [  # Projenizin bağımlılıklarını buraya listeleyin
+    "selenium",
+    "webdriver-manager",
+    "pandas",
+    "openpyxl",
+    "requests"
+]
+
+[project.optional-dependencies] # İsteğe bağlı bağımlılıklar (gerekliyse)
+dev = [
+    "pytest", # Test için pytest gibi araçlar
+    "flake8", # Kod stilini kontrol etmek için flake8 gibi araçlar
+]
+
+
+[tool.pytest.ini_options]  # pytest yapılandırması (isteğe bağlı)
+testpaths = ["tests"] # Test dosyalarının bulunduğu klasör
+
+# Diğer araçlar için de buraya ayarlar eklenebilir (flake8, mypy vb.)
+
+# python -m build
+# twine upload dist/*

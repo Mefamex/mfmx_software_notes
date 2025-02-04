@@ -1,4 +1,4 @@
-<h1 align="center" id="banner"> BANNER </h1>
+<h1 align="center" id="docstring-projects"> DOCSTRING-PROJECTS </h1>
 
 > [ÜST DİZİN  (main) ](../README.md)
 
@@ -7,9 +7,9 @@
 
 <h1 align="center"> İçindekiler [TR]</h1>
 
-* [BANNER-SCRIPTS](#banner)
+* [Docstring Projects](#docstring-projects)
   - [Amaçları](#amaçları)
-  - [Python Banner](PYTHON-BANNER.readme.tr.md#python-banner)
+  - [Python Docstring [TR]](PYTHON-DOCSTRING.readme.tr.md)
 
 
 
@@ -18,15 +18,19 @@
 
 <h1 align="center"> Contents [EN]</h1> 
 
-* [BANNER-SCRIPTS](#banner)
+* [Docstring Projects](#docstring-projects)
   - [Purposes](#purposes)
-  - [Python Banner](PYTHON-BANNER.readme.en.md#python-banner)
+  - [Python Docstring [EN]](PYTHON-DOCSTRING.readme.en.md)
 
 
 
 
 <br/>
+<br/>
 
+
+
+<hr>
 
 ## Amaçları
 - Kodun Amacını Açıklar:
@@ -55,7 +59,7 @@
 
 <br/><br/>
 
-
+<hr>
 
 ## Purposes 
 - Explains the Purpose of the Code: 

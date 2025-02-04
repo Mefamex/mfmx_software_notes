@@ -2,6 +2,9 @@
 
 > [ÜST DİZİN  (main) ](../README.md)
 
+<hr>
+
+
 <br>
 
 
@@ -15,6 +18,9 @@
 int[] a=[]; Adddd(ref a, 1);  //a = [1]
 ```
 
+<hr>
+
+<br>
 <br>
 
 ## Performans-Test
@@ -25,3 +31,4 @@ int[] a=[]; Adddd(ref a, 1);  //a = [1]
 ``` cs
 var test = new PerformanceTest(); test.RunTests();
 ```
+<hr>
