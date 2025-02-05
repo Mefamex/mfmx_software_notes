@@ -64,7 +64,7 @@ class Program
         sample.Func2(); // Console.WriteLine("Custom Func2 executed");
 
         // Async/await işlemleriyle özel Func2 çalıştır
-        RunParallelFunc(sample); // .Wait() eklersen fonksiyonun bitmesini bekler
+        RunParallelFunc(sample);
     }
 }
 
@@ -95,10 +95,9 @@ class AsyncTriggerClass
     public Func2Delegate Func2 { get; set; }
     private void DefaultFunc1() => Debug.WriteLine($"Default Func1 executed at: {DateTime.UtcNow.Ticks}");
     private void DefaultFunc2() => Debug.WriteLine($"Default Func2 executed at: {DateTime.UtcNow.Ticks}");
-    private static readonly Lazy<Task> _func2Caller = new Lazy<Task>(() => Task.Run(async () =>
+    private async Task TriggerFunc2Parallel()
     {
-        try { await Task.Yield(); new AsyncTriggerClass().Func2(); }
+        try { await Task.Yield(); Func2(); }
         catch (Exception ex) { Debug.WriteLine($"Func2 parallel execution failed: {ex.Message}"); }
-    }), LazyThreadSafetyMode.ExecutionAndPublication);
-    private static async Task TriggerFunc2Parallel() => await _func2Caller.Value;
+    }
 }
