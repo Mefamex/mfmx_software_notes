@@ -64,7 +64,7 @@ class Program
         sample.Func2(); // Console.WriteLine("Custom Func2 executed");
 
         // Async/await işlemleriyle özel Func2 çalıştır
-        RunParallelFunc(sample).Wait();
+        RunParallelFunc(sample); // .Wait() eklersen fonksiyonun bitmesini bekler
     }
 }
 
