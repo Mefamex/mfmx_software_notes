@@ -11,13 +11,17 @@
 <h3> C# </h3>
 
 ```cs 
+// coding="utf-8"
 /* 
-Proje Adi:      Ornek Proje 
-Proje Versiyon: 1.0.0 
-Tarih:          YYYY-MM-DD 
-Degisim Tarihi: YYYY-MM-DD 
-Telif Hakki:    Copyright (c) 2050 Company 
-Durum:          Gelistirme, Uretim, Beta, Alfa, Prototip, Kararli, Kullanim Disi, Bakim, Deneysel, On izleme, Arsivlendi
+
+Proje Adi       : Ornek Proje 
+Proje Versiyon  : 1.0.0 
+Tarih           : YYYY-MM-DD 
+Degisim Tarihi  : YYYY-MM-DD 
+Telif Hakki     : Copyright (c) 2050 Company 
+Durum           : Gelistirme, Uretim, Beta, Alfa, Prototip, Modül, Kararli, Kullanim Disi, Bakim, Deneysel, On izleme, Arsivlendi
+Lisans          : MIT Lisansi (https://opensource.org/licenses/MIT)
+Yazar           : Isim (mail@mail.com) (https://website.com)
 
 Aciklama:
 Bu proje [projenin amacini kisa bir sekilde belirtin] icin gelistirilmistir.
@@ -28,17 +32,14 @@ Ozellikler:
 
 Moduller:
 - modul1: [Modul 1 aciklamasi]
-- modul2: [Modul 2 aciklamasi]
 - ...
 
 Siniflar:
 - Sinif1: [Sinif 1 aciklamasi]
-- Sinif2: [Sinif 2 aciklamasi]
 - ...
 
 Fonksiyonlar:
-- fonksiyon1(parametre1, parametre2): [Fonksiyon 1 aciklamasi]
-- fonksiyon2(parametre1): [Fonksiyon 2 aciklamasi]
+- fonksiyon1(parametre1..): [Fonksiyon 1 aciklamasi]
 - ...
 
 Kullanim:
@@ -57,12 +58,6 @@ Kurulum:
 
 Dokumantasyon: 
     - Detayli dokumantasyon icin: `README.md` 
-
-Lisans:
-MIT Lisansi (https://opensource.org/licenses/MIT)
-
-Yazar:
-Isim (mail@mail.com) (https://website.com)
 
 Katkilar:
 [Projeye katkida bulunanlarin isimleri ve iletisim bilgileri]

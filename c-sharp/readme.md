@@ -2,10 +2,7 @@
 
 > [ÜST DİZİN  (main) ](../README.md)
 
-<hr>
-
-
-<br>
+<hr><br><br>
 
 
 
@@ -18,10 +15,11 @@
 int[] a=[]; Adddd(ref a, 1);  //a = [1]
 ```
 
-<hr>
+<hr><br><br>
 
-<br>
-<br>
+
+
+
 
 ## Performans-Test
 
@@ -31,4 +29,32 @@ int[] a=[]; Adddd(ref a, 1);  //a = [1]
 ``` cs
 var test = new PerformanceTest(); test.RunTests();
 ```
-<hr>
+
+<hr><br><br>
+
+
+
+
+
+## Async Tetikleyici Sınıfı Şablonu
+
+* Bu koddaki sınıf Asenkron tetikleme mekanizması için Delegate ve Async/await kullanarak Thread-safe olan bir implementasyondur.
+* [Koda git](Async-Trigger-class.cs)
+
+``` cs
+AsyncTriggerClass sample = new AsyncTriggerClass();
+
+// Default methodları çalıştır
+sample.Func1(); // Debug.WriteLine("Default Func1 executed at: " + DateTime.UtcNow.Ticks);
+
+// Custom methodları tanımla
+sample.Func1 = () => Console.WriteLine("Custom Func1 executed");
+
+// Custom methodları çalıştır
+sample.Func1(); // Console.WriteLine("Custom Func1 executed");
+
+// Async/await işlemleriyle özel Func2 çalıştır
+RunParallelFunc(nn).Wait();
+```
+
+<hr><br><br>

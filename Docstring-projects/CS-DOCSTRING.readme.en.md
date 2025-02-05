@@ -11,13 +11,17 @@
 <h3> C# </h3>
 
 ```cs 
+// coding="utf-8"
 /* 
-Project Name:   Example Project 
-Project Version:1.0.0 
-Date:           YYYY-MM-DD 
-Date Modify:    YYYY-MM-DD 
-Copyright:      Copyright (c) 2050 Company 
-Satatus:        Development, Production, Beta, Alpha, Prototype, Stable, Deprecated, Maintenance, Experimental, Preview, Archived 
+
+Project Name    : Example Project 
+Project Version : 1.0.0 
+Date            : YYYY-MM-DD 
+Date Modify     : YYYY-MM-DD 
+Copyright       : Copyright (c) 2050 Company 
+Satatus         : Development, Production, Beta, Alpha, Prototype, Module , Stable, Deprecated, Maintenance, Experimental, Preview, Archived 
+License         : MIT License (https://opensource.org/licenses/MIT)
+Author          : Name (mail@mail.com) (https://website.com)
 
 Description:
 This project was developed to [briefly state the project's purpose].
@@ -27,18 +31,15 @@ Features:
     - You can write the features either item by item or as text 
 
 Modules:
-- module1: [Description of module 1]
-- module2: [Description of module 2]
+- module1 : [Description of module 1]
 - ...
 
 Classes:
-- Class1: [Description of class 1]
-- Class2: [Description of class 2]
+- Class1 : [Description of class 1]
 - ...
 
 Functions:
-- function1(parameter1, parameter2): [Description of function 1]
-- function2(parameter1): [Description of function 2]
+- function1(parameter1..) : [Description of function 1]
 - ...
 
 Usage:
@@ -57,12 +58,6 @@ Installation:
 
 Documentation: 
     - For detailed documentation: `README.md` 
-
-License:
-MIT License (https://opensource.org/licenses/MIT)
-
-Author:
-Name (mail@mail.com) (https://website.com)
 
 Contributors:
 [Names and contact information of those who contributed to the project]

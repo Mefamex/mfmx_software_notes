@@ -25,8 +25,9 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
     - [Python](Docstring-projects/PYTHON-DOCSTRING.readme.tr.md)
     - [C#](Docstring-projects/CS-DOCSTRING.readme.tr.md)
 * [C-SHARP](c-sharp/readme.md)
-    - [Array.Add](c-sharp/readme.md/##Array.Adddd)
-    - [Performans-Test](c-sharp/readme.md/##Performans-Test)
+    - [Array.Add](c-sharp/readme.md/#arrayadddd)
+    - [Performans-Test](c-sharp/readme.md/#performans-test)
+    - [Async Tetikleyici Sınıfı](c-sharp/readme.md/#async-tetikleyici-sınıfı-şablonu)
 * [PYTHON](python/readme.md)
     - [ilk çalıştırma gereksinimler](python/README.md#first-run-dependencies)
 
@@ -53,8 +54,9 @@ I created this repository to keep some of my notes about programming languages a
     - [Python-Docstring](Docstring-projects/PYTHON-DOCSTRING.readme.en.md)
     - [C#](Docstring-projects/CS-DOCSTRING.readme.en.md)
 * [C-SHARP](c-sharp/readme.md)
-    - [Array.Add](c-sharp/readme.md/##Array.Adddd)
-    - [Performans-Test](c-sharp/readme.md/##Performans-Test)
+    - [Array.Add](c-sharp/readme.md/#arrayadddd)
+    - [Performans-Test](c-sharp/readme.md/#performans-test)
+    - [Async Tetikleyici Sınıfı](c-sharp/readme.md/#async-tetikleyici-sınıfı-şablonu)
 * [PYTHON](python/readme.md)
     - [First run dependencies](python/README.md#first-run-dependencies)
 
