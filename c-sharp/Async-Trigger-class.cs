@@ -36,7 +36,7 @@ instance.Func1 = () => CustomOperation();
 instance.Func2 = () => AsyncOperation();
 
 Gereksinimler:
-- .NET 6.0 veya üstü
+- .NET 7.3 veya üstü
 - Bagimliliklar:
     - System.Threading.Tasks
 */
@@ -46,7 +46,7 @@ using System;
 
 class Program
 {
-    private static async Task RunParallelFunc(TriggerClass F) => await Task.Run(() => F.Func2());
+    private static async Task RunParallelFunc(AsyncTriggerClass F) => await Task.Run(() => F.Func2());
     public static void Main(string[] args)
     {
         AsyncTriggerClass sample = new AsyncTriggerClass();
@@ -64,7 +64,7 @@ class Program
         sample.Func2(); // Console.WriteLine("Custom Func2 executed");
 
         // Async/await işlemleriyle özel Func2 çalıştır
-        RunParallelFunc(nn).Wait();
+        RunParallelFunc(sample).Wait();
     }
 }
 
@@ -95,7 +95,7 @@ class AsyncTriggerClass
     public Func2Delegate Func2 { get; set; }
     private void DefaultFunc1() => Debug.WriteLine($"Default Func1 executed at: {DateTime.UtcNow.Ticks}");
     private void DefaultFunc2() => Debug.WriteLine($"Default Func2 executed at: {DateTime.UtcNow.Ticks}");
-    private static readonly Lazy<Task> _func2Caller = new(() => Task.Run(async () =>
+    private static readonly Lazy<Task> _func2Caller = new Lazy<Task>(() => Task.Run(async () =>
     {
         try { await Task.Yield(); new AsyncTriggerClass().Func2(); }
         catch (Exception ex) { Debug.WriteLine($"Func2 parallel execution failed: {ex.Message}"); }
