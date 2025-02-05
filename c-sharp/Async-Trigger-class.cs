@@ -101,4 +101,4 @@ class AsyncTriggerClass
         catch (Exception ex) { Debug.WriteLine($"Func2 parallel execution failed: {ex.Message}"); }
     }), LazyThreadSafetyMode.ExecutionAndPublication);
     private static async Task TriggerFunc2Parallel() => await _func2Caller.Value;
-
+}
