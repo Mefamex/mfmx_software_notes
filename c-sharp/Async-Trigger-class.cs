@@ -46,7 +46,6 @@ using System;
 
 class Program
 {
-    private static async Task RunParallelFunc(AsyncTriggerClass F) => await Task.Run(() => F.Func2());
     public static void Main(string[] args)
     {
         AsyncTriggerClass sample = new AsyncTriggerClass();
@@ -60,12 +59,18 @@ class Program
         sample.Func2 = () => Console.WriteLine("Custom Func2 executed");
 
         // Custom methodları çalıştır
+        Console.WriteLine("call custom method");
         sample.Func1(); // Console.WriteLine("Custom Func1 executed");
         sample.Func2(); // Console.WriteLine("Custom Func2 executed");
 
         // Async/await işlemleriyle özel Func2 çalıştır
         RunParallelFunc(sample);
+        Console.WriteLine("call samples special func from class' sample");
+        sample.ContinuousOperationFunction();
     }
+
+    
+    private static async Task RunParallelFunc(AsyncTriggerClass F) => await Task.Run(() => F.Func2());
 }
 
 
@@ -80,11 +85,7 @@ class AsyncTriggerClass
 
     public void ContinuousOperationFunction()
     {
-        // Code here
-        // Bla bla bla
-        // when you want to call entegre trigger func
         Func1();
-        // when you want to call parallel trigger func
         Task.Run(async () => { await TriggerFunc2Parallel(); });
     }
 
