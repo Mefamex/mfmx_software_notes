@@ -21,6 +21,20 @@
 
 
 @echo off
+
+
+:: Yönetici kontrolü
+net session >nul 2>&1
+if %errorLevel% neq 0 (
+    echo. 
+    echo Bu islem icin yonetici izinleri gereklidir.
+    echo. 
+    echo Eksik olarak da olsa yapmak icin devam edebilirsiniz.
+    echo. 
+    timeout 10 
+)
+
+
 echo Ağ ayarları sıfırlanıyor, lütfen bekleyin...
 
 :: IP ve TCP sıfırlama

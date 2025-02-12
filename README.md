@@ -25,6 +25,11 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
     - [İlk Çalıştırma (gereksinimleri otomatik yükleme)](python/README.md#first-run-dependencies)
 * [Batch](batch/readme.md)
     - [Network Reset](batch/network-reset.bat)
+* [SQL NOTES](sql/readme.md)
+    - [Database Roadmap](sql/Database_roadmap.md)
+    - [Sql Full Tutorial](sql/sql-full-tutorial.md)
+    - [MySql Full Tutorial](sql/mysql-full-tutorial.md)
+    - [Examples](sql/readme.md)
 
 
 
