@@ -1,7 +1,7 @@
-<h1 align="center" id="yaml-tr"> YAML DOCSTRING [TR]</h1>
+<h1 align="center" id="yaml"> YAML DOCSTRING</h1>
 
 
-> [UPPER DIRECTORY (Docstring-Project) ](readme.md)
+> [ÜST DİZİN (Docstring-Project) ](readme.md)
 
 <hr>
 <br/>
@@ -13,15 +13,21 @@
 
 ``` yaml
 name: "Proje Adı" # Projenizin tam adı
+
 display_name: "Proje Adı (Kullanıcı Dostu)" # Kullanıcı arayüzünde gösterilecek ad (isteğe bağlı)
+
 description: "Projenin Kısa ve Öz Açıklaması" # Projenizin ne yaptığını ve amacını açıklayan kısa bir özet
+
 long_description: | # Projenin detaylı açıklaması (Markdown formatında)
     Bu proje, ... (detaylı açıklamalar buraya) ...
     Özellikleri:
         - ...
         - ...
+
 version: "1.0.0" # Proje sürümü (Semantik Sürümleme önerilir)
+
 release_date: "2024-05-16" # Son sürümün yayınlanma tarihi
+
 authors: # Proje geliştiricileri
     - name: "Geliştirici 1 Adı"
         email: "gelistirici1@email.com"
@@ -29,21 +35,26 @@ authors: # Proje geliştiricileri
     - name: "Geliştirici 2 Adı"
         email: "gelistirici2@email.com"
         linkedin: "kullaniciadi2" # LinkedIn kullanıcı adı (isteğe bağlı)
+
 maintainers: # Proje bakımcıları (geliştiricilerden farklıysa)
     - name: "Bakımcı 1 Adı"
         email: "bakimci1@email.com"
+
 repository: # Proje kaynak kodu deposu
     type: "git" # Depo türü (git, svn vb.)
     url: "https://github.com/kullanici/proje" # Depo URL'si
     branch: "main" # Ana dal adı
+
 license: # Proje lisansı
     name: "MIT Lisansı" # Lisans adı
     url: "https://opensource.org/licenses/MIT" # Lisans URL'si
+
 keywords: # Projeyi tanımlayan anahtar kelimeler
     - "c#"
     - ".net"
     - "proje"
     - "örnek"
+
 technologies: # Kullanılan teknolojiler ve araçlar
     programming_languages:
         - "C#"
@@ -57,6 +68,7 @@ technologies: # Kullanılan teknolojiler ve araçlar
     tools: # Geliştirme araçları
         - "Visual Studio 2022"
         - "Git"
+
 build: # Projenin nasıl derlendiği
     instructions: | # Derleme talimatları (Markdown formatında)
         1. `dotnet restore` komutunu çalıştırın.
@@ -64,6 +76,7 @@ build: # Projenin nasıl derlendiği
     scripts: # Derleme komutları (isteğe bağlı)
         - "build.sh" # (Linux/macOS için)
         - "build.bat" # (Windows için)
+
 installation: # Projenin nasıl kurulduğu
     instructions: | # Kurulum talimatları (Markdown formatında)
         1. Gerekli bağımlılıkları yükleyin.
@@ -72,6 +85,7 @@ installation: # Projenin nasıl kurulduğu
     dependencies: # Bağımlılıklar
         - ".NET 6 Runtime"
         - "SQL Server" # (Eğer varsa)
+
 usage: # Projenin nasıl kullanıldığı
     instructions: | # Kullanım talimatları (Markdown formatında)
         1. Uygulamayı çalıştırın.
@@ -82,17 +96,21 @@ usage: # Projenin nasıl kullanıldığı
             // Örnek kod
             ...
             ```
+
 documentation: # Proje dokümantasyonu
     url: "https://github.com/kullanici/proje/wiki" # Wiki veya diğer dokümantasyon URL'si
     api_reference: "https://github.com/kullanici/proje/api" # API referans dokümantasyonu URL'si (isteğe bağlı)
+
 contributing: # Projeye nasıl katkıda bulunulacağı
     guidelines: "CONTRIBUTING.md" # Katkıda bulunma yönergeleri dosyası
     code_of_conduct: "CODE_OF_CONDUCT.md" # Davranış kuralları dosyası (isteğe bağlı)
+
 testing: # Projenin nasıl test edildiği
     instructions: | # Test talimatları
         1. Test ortamını kurun.
         2. `dotnet test` komutunu çalıştırın.
     coverage: "https://codecov.io/gh/kullanici/proje" # Test kapsamı raporu (isteğe bağlı)
+
 deployment: # Projenin nasıl dağıtıldığı
     instructions: | # Dağıtım talimatları
         1. Sunucuya yükleyin.
@@ -102,6 +120,7 @@ deployment: # Projenin nasıl dağıtıldığı
             url: "https://dev.example.com"
         - name: "Üretim"
             url: "https://prod.example.com"
+
 contact: # İletişim bilgileri
     email: "info@example.com"
     twitter: "@example" # (isteğe bağlı)

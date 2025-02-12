@@ -12,8 +12,8 @@
 #!/usr/bin/env python3 
 # -*- coding: utf-8 -*- 
 
-__name__ = "ornek-proje"
-__version__ = "1.0.0"
+__project_name__ = "ornek-proje"
+__project_version__ = "1.0.0"
 __author__ = "topluluk veya kisi adi"
 __email__ = "posta@posta.com"
 __url__ = "https://website.com/ornek-proje"

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3 
 # -*- coding: utf-8 -*- 
 
-__name__ = "Bağımlılık Yükleyici ve Kontrolcü"
+__project_name__ = "Bağımlılık Yükleyici ve Kontrolcü"
 __version__ = "1.0.0"
 __author__ = "Mefamex"
 __url__ = "https://mefamex.com/"

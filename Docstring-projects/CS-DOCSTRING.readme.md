@@ -1,7 +1,7 @@
 <h1 align="center" id="cs-docstring-tr"> C# DOCSTRING [TR]</h1>
 
 
-> [UPPER DIRECTORY (Docstring-Project) ](readme.md)
+> [ÜST DİZİN (Docstring-Project) ](readme.md)
 
 <hr>
 <br/>
