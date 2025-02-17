@@ -65,62 +65,95 @@
 <br><br><hr>
 
 ## Fonksiyonlar
-Faktöriyel Hesaplama: Kullanıcının girdiği bir sayının faktöriyelini hesaplayan bir fonksiyon.
-Kelime Ters Çevirme Fonksiyonu: Bir kelimeyi tersine çeviren bir fonksiyon.
-Sayıların Toplamı: Bir dizi sayının toplamını hesaplayan bir fonksiyon.
-Asal Sayı Kontrolü Fonksiyonu: Bir sayının asal olup olmadığını kontrol eden bir fonksiyon.
-Dizi Elemanlarını Sıralama: Bir diziyi sıralayan bir fonksiyon.
-Kullanıcıdan Girdi Alma: Kullanıcıdan girdi alıp, bu girdiyi işleyen bir fonksiyon.
-Harf Sayısı Hesaplama: Bir metindeki harf sayısını hesaplayan bir fonksiyon.
-Rastgele Sayı Üretici: Belirli bir aralıkta rastgele bir sayı üreten bir fonksiyon.
-Dizi Elemanlarının Ortalamasını Hesaplama: Bir dizinin ortalamasını hesaplayan bir fonksiyon.
-Küçük ve Büyük Harf Dönüştürücü: Bir metni küçük veya büyük harfe dönüştüren bir fonksiyon.
-6. Modüller ve Kütüphaneler
-NumPy ile Matris İşlemleri: NumPy kullanarak matris oluşturma ve işlemler yapma.
-Pandas ile Veri Analizi: Pandas kullanarak bir CSV dosyasını okuyup, analiz etme.
-Matplotlib ile Grafik Çizimi: Matplotlib kullanarak basit bir grafik çizen bir program.
-Rastgele Sayılar ile Histogram: Rastgele sayılar üreterek bunların histogramını çizen bir program.
-Veri Çizimi: Pandas ile bir veri setini okuyup, Matplotlib ile görselleştirme.
-NumPy ile İstatistiksel Hesaplamalar: NumPy kullanarak bir dizi üzerinde istatistiksel hesaplamalar yapma.
-Pandas ile Veri Temizleme: Pandas kullanarak eksik verileri temizleyen bir program.
-Matplotlib ile Çizgi Grafiği: Belirli bir veri seti için çizgi grafiği oluşturan bir program.
-Kütüphane Kullanımı: Belirli bir kütüphaneyi kullanarak basit bir uygulama geliştirme.
-Veri Seti Analizi: Bir veri setini okuyup, temel analizler yaparak sonuçları yazdırma.
-7. Hata Yönetimi
-Dosya Okuma Hatası Yönetimi: Dosya okuma işlemi sırasında hata yönetimi yapan bir program.
-Kullanıcı Girişi Hatası: Kullanıcıdan alınan girdi hatalarını kontrol eden bir program.
-Sayı Girişi Kontrolü: Kullanıcının girdiği değerin sayı olup olmadığını kontrol eden bir program 4. Hata Mesajı Gösterimi: Kullanıcıdan alınan girdi hatalarında uygun hata mesajları gösteren bir program.
-Sıfıra Bölme Kontrolü: Kullanıcının girdiği bir sayıyı başka bir sayıya bölerken sıfıra bölme hatasını kontrol eden bir program.
-Dosya Yazma Hatası Yönetimi: Dosyaya yazma işlemi sırasında oluşabilecek hataları yöneten bir program.
-Veri Tipi Kontrolü: Kullanıcının girdiği verinin beklenen türde olup olmadığını kontrol eden bir program.
-Hata Günlüğü Oluşturma: Hataları bir dosyaya kaydeden bir hata günlüğü uygulaması.
-Kullanıcıdan Girdi Alma: Kullanıcıdan alınan girdilerin geçerliliğini kontrol eden bir program.
-Özel Hata Sınıfı: Kendi özel hata sınıfını oluşturarak hata yönetimi yapan bir program.
-8. Dosya İşlemleri
-Metin Dosyası Okuma: Bir metin dosyasını okuyup içeriğini yazdıran bir program.
-Metin Dosyasına Yazma: Kullanıcının girdiği verileri bir metin dosyasına yazan bir program.
-Dosya Kopyalama: Bir dosyayı başka bir konuma kopyalayan bir program.
-Dosya İçeriğini Ters Çevirme: Bir dosyanın içeriğini tersine çevirip yeni bir dosyaya yazan bir program.
-CSV Dosyası Okuma: Bir CSV dosyasını okuyup içeriğini yazdıran bir program.
-Dosya Boyutu Hesaplama: Belirli bir dosyanın boyutunu hesaplayan bir program.
-Dosya Silme: Kullanıcının belirttiği bir dosyayı silen bir program.
-Dosya İçeriğini Arama: Bir dosya içinde belirli bir kelimeyi arayan bir program.
-Dosya Yedekleme: Belirli bir dosyanın yedeğini alarak başka bir konuma kopyalayan bir program.
-Dosya İçeriğini Satır Satır Okuma: Bir dosyayı satır satır okuyup her satırı yazdıran bir program.
-9. Nesne Yönelimli Programlama (OOP)
-Kedi ve Köpek Sınıfları: Kedi ve köpek sınıflarını oluşturarak özelliklerini tanımlayan bir program.
-Araba Sınıfı: Araba sınıfı oluşturarak hız, model gibi özellikleri tanımlayan bir program.
-Hesap Makinesi Sınıfı: Hesaplama işlemlerini gerçekleştiren bir hesap makinesi sınıfı.
-Kitap Sınıfı: Kitap bilgilerini (yazar, başlık, yıl) saklayan bir kitap sınıfı.
-Öğrenci Sınıfı: Öğrenci bilgilerini (isim, yaş, notlar) saklayan bir öğrenci sınıfı.
-Hayvanat Bahçesi Uygulaması: Farklı hayvan sınıflarını oluşturarak bir hayvanat bahçesi uygulaması.
-Bankacılık Uygulaması: Müşteri ve hesap sınıflarını oluşturarak basit bir bankacılık uygulaması.
-Oyun Karakteri Sınıfı: Oyun karakteri özelliklerini tanımlayan bir sınıf.
-Geometrik Şekiller Sınıfı: Farklı geometrik şekillerin alan ve çevre hesaplamalarını yapan bir sınıf.
-Kütüphane Uygulaması: Kitap ve üye sınıflarını oluşturarak bir kütüphane uygulaması.
-10. İleri Düzey Konular
-Decorator Kullanımı: Fonksiyonları süslemek için decorator kullanan bir program.
-Generator Oluşturma: Büyük veri setlerini verimli bir şekilde işlemek için generator kullanan bir program.
-List Comprehensions: Listeleri daha kısa ve okunabilir bir şekilde oluşturmak için list comprehension kullanan bir program.
-Özel Hata Yönetimi: Kendi özel hata sınıflarını oluşturarak hata yönetimi yapan bir program.
-Context Manager Kullanımı: Dosya işlemlerinde context manager kullanarak kaynak yönet
+
+- Faktöriyel Hesaplama: Kullanıcının girdiği bir sayının faktöriyelini hesaplayan bir fonksiyon.
+- Kelime Ters Çevirme Fonksiyonu: Bir kelimeyi tersine çeviren bir fonksiyon.
+- Sayıların Toplamı: Bir dizi sayının toplamını hesaplayan bir fonksiyon.
+- Asal Sayı Kontrolü Fonksiyonu: Bir sayının asal olup olmadığını kontrol eden bir fonksiyon.
+- Dizi Elemanlarını Sıralama: Bir diziyi sıralayan bir fonksiyon.
+- Kullanıcıdan Girdi Alma: Kullanıcıdan girdi alıp, bu girdiyi işleyen bir fonksiyon.
+- Harf Sayısı Hesaplama: Bir metindeki harf sayısını hesaplayan bir fonksiyon.
+- Rastgele Sayı Üretici: Belirli bir aralıkta rastgele bir sayı üreten bir fonksiyon.
+- Dizi Elemanlarının Ortalamasını Hesaplama: Bir dizinin ortalamasını hesaplayan bir fonksiyon.
+- Küçük ve Büyük Harf Dönüştürücü: Bir metni küçük veya büyük harfe dönüştüren bir fonksiyon.
+
+<br><br><hr>
+
+
+## Modüller ve Kütüphaneler
+
+- NumPy ile Matris İşlemleri: NumPy kullanarak matris oluşturma ve işlemler yapma.
+- Pandas ile Veri Analizi: Pandas kullanarak bir CSV dosyasını okuyup, analiz etme.
+- Matplotlib ile Grafik Çizimi: Matplotlib kullanarak basit bir grafik çizen bir program.
+- Rastgele Sayılar ile Histogram: Rastgele sayılar üreterek bunların histogramını çizen bir program.
+- Veri Çizimi: Pandas ile bir veri setini okuyup, Matplotlib ile görselleştirme.
+- NumPy ile İstatistiksel Hesaplamalar: NumPy kullanarak bir dizi üzerinde istatistiksel hesaplamalar yapma.
+- Pandas ile Veri Temizleme: Pandas kullanarak eksik verileri temizleyen bir program.
+- Matplotlib ile Çizgi Grafiği: Belirli bir veri seti için çizgi grafiği oluşturan bir program.
+- Kütüphane Kullanımı: Belirli bir kütüphaneyi kullanarak basit bir uygulama geliştirme.
+- Veri Seti Analizi: Bir veri setini okuyup, temel analizler yaparak sonuçları yazdırma.
+
+
+<br><br><hr>
+
+## Hata Yönetimi
+
+- Dosya Okuma Hatası Yönetimi: Dosya okuma işlemi sırasında hata yönetimi yapan bir program.
+- Kullanıcı Girişi Hatası: Kullanıcıdan alınan girdi hatalarını kontrol eden bir program.
+- Sayı Girişi Kontrolü: Kullanıcının girdiği değerin sayı olup olmadığını kontrol eden bir program 4. Hata Mesajı Gösterimi: Kullanıcıdan alınan girdi hatalarında uygun hata mesajları gösteren bir program.
+- Sıfıra Bölme Kontrolü: Kullanıcının girdiği bir sayıyı başka bir sayıya bölerken sıfıra bölme hatasını kontrol eden bir program.
+- Dosya Yazma Hatası Yönetimi: Dosyaya yazma işlemi sırasında oluşabilecek hataları yöneten bir program.
+- Veri Tipi Kontrolü: Kullanıcının girdiği verinin beklenen türde olup olmadığını kontrol eden bir program.
+- Hata Günlüğü Oluşturma: Hataları bir dosyaya kaydeden bir hata günlüğü uygulaması.
+- Kullanıcıdan Girdi Alma: Kullanıcıdan alınan girdilerin geçerliliğini kontrol eden bir program.
+- Özel Hata Sınıfı: Kendi özel hata sınıfını oluşturarak hata yönetimi yapan bir program.
+
+
+<br><br><hr>
+
+
+## Dosya İşlemleri
+
+- Metin Dosyası Okuma: Bir metin dosyasını okuyup içeriğini yazdıran bir program.
+- Metin Dosyasına Yazma: Kullanıcının girdiği verileri bir metin dosyasına yazan bir program.
+- Dosya Kopyalama: Bir dosyayı başka bir konuma kopyalayan bir program.
+- Dosya İçeriğini Ters Çevirme: Bir dosyanın içeriğini tersine çevirip yeni bir dosyaya yazan bir program.
+- CSV Dosyası Okuma: Bir CSV dosyasını okuyup içeriğini yazdıran bir program.
+- Dosya Boyutu Hesaplama: Belirli bir dosyanın boyutunu hesaplayan bir program.
+- Dosya Silme: Kullanıcının belirttiği bir dosyayı silen bir program.
+- Dosya İçeriğini Arama: Bir dosya içinde belirli bir kelimeyi arayan bir program.
+- Dosya Yedekleme: Belirli bir dosyanın yedeğini alarak başka bir konuma kopyalayan bir program.
+- Dosya İçeriğini Satır Satır Okuma: Bir dosyayı satır satır okuyup her satırı yazdıran bir program.
+
+<br><br><hr>
+
+
+
+## Nesne Yönelimli Programlama (OOP)
+
+- Kedi ve Köpek Sınıfları: Kedi ve köpek sınıflarını oluşturarak özelliklerini tanımlayan bir program.
+- Araba Sınıfı: Araba sınıfı oluşturarak hız, model gibi özellikleri tanımlayan bir program.
+- Hesap Makinesi Sınıfı: Hesaplama işlemlerini gerçekleştiren bir hesap makinesi sınıfı.
+- Kitap Sınıfı: Kitap bilgilerini (yazar, başlık, yıl) saklayan bir kitap sınıfı.
+- Öğrenci Sınıfı: Öğrenci bilgilerini (isim, yaş, notlar) saklayan bir öğrenci sınıfı.
+- Hayvanat Bahçesi Uygulaması: Farklı hayvan sınıflarını oluşturarak bir hayvanat bahçesi uygulaması.
+- Bankacılık Uygulaması: Müşteri ve hesap sınıflarını oluşturarak basit bir bankacılık uygulaması.
+- Oyun Karakteri Sınıfı: Oyun karakteri özelliklerini tanımlayan bir sınıf.
+- Geometrik Şekiller Sınıfı: Farklı geometrik şekillerin alan ve çevre hesaplamalarını yapan bir sınıf.
+- Kütüphane Uygulaması: Kitap ve üye sınıflarını oluşturarak bir kütüphane uygulaması.
+
+<br><br><hr>
+
+
+
+## İleri Düzey Konular
+- Decorator Kullanımı: Fonksiyonları süslemek için decorator kullanan bir program.
+- Generator Oluşturma: Büyük veri setlerini verimli bir şekilde işlemek için generator kullanan bir program.
+- List Comprehensions: Listeleri daha kısa ve okunabilir bir şekilde oluşturmak için list comprehension kullanan bir program.
+- Özel Hata Yönetimi: Kendi özel hata sınıflarını oluşturarak hata yönetimi yapan bir program.
+- Context Manager Kullanımı: Dosya işlemlerinde context manager kullanarak kaynak yönet
+
+
+<br><br><hr>
+
+> good luck!
