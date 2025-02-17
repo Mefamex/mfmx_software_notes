@@ -8,6 +8,14 @@
 
 
 
+## Python Örnek Projeler
+
+* Bu sayfada, Python programlama dilinin temel konularından ileri düzey konularına kadar çeşitli örnekler ve uygulamalar yer almaktadır.
+* [Dökümana git](ornek-projeler.md)
+
+
+<br><br><hr>
+
 ## First Run Dependencies
 
 * Python bağımlılıklarının yüklü olup olmadığını kontrol eder.
