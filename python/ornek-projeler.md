@@ -1,50 +1,70 @@
-1. Python'a Giriş
-Merhaba Dünya Programı: Basit bir "Merhaba Dünya" yazdırma programı.
-Kullanıcıdan Girdi Alma: Kullanıcıdan isim ve yaş alarak bir mesaj yazdırma.
-Hesap Makinesi: Temel aritmetik işlemleri (toplama, çıkarma, çarpma, bölme) yapabilen bir program.
-Sayı Tahmin Oyunu: Kullanıcının rastgele bir sayıyı tahmin etmeye çalıştığı bir oyun.
-Fahrenheit'tan Celsius'a Dönüştürücü: Kullanıcının girdiği Fahrenheit değerini Celsius'a dönüştüren bir program.
-Basit Bir Şifre Oluşturucu: Rastgele bir şifre üreten bir program.
-Kendi Adını Yazdırma: Kullanıcının adını alıp, "Benim adım [isim]" şeklinde yazdırma.
-Küçük-Büyük Harf Dönüştürücü: Kullanıcının girdiği metni küçük veya büyük harfe dönüştüren bir program.
-Sayıların Toplamı: Kullanıcının girdiği bir dizi sayının toplamını hesaplayan bir program.
-Kendi Bilgilerini Yazdırma: Kullanıcıdan ad, soyad ve yaş alarak bunları yazdıran bir program.
+<h1 align="center"> PYTHON ÖRNEK PROJELER</h1>
+
+> Bu sayfada, Python programlama dilinin temel konularından ileri düzey konularına kadar kodlıyabileceğiniz çeşitli proje örnekleri ve uygulamalar yer almaktadır.
+
+> 2025-02-17
+
+## Python'a Giriş
+
+- Merhaba Dünya Programı: Basit bir "Merhaba Dünya" yazdırma programı.
+- Kullanıcıdan Girdi Alma: Kullanıcıdan isim ve yaş alarak bir mesaj yazdırma.
+- Hesap Makinesi: Temel aritmetik işlemleri (toplama, çıkarma, çarpma, bölme) yapabilen bir program.
+- Sayı Tahmin Oyunu: Kullanıcının rastgele bir sayıyı tahmin etmeye çalıştığı bir oyun.
+- Fahrenheit'tan Celsius'a Dönüştürücü: Kullanıcının girdiği Fahrenheit değerini Celsius'a dönüştüren bir program.
+- Basit Bir Şifre Oluşturucu: Rastgele bir şifre üreten bir program.
+- Kendi Adını Yazdırma: Kullanıcının adını alıp, "Benim adım [isim]" şeklinde yazdırma.
+- Küçük-Büyük Harf Dönüştürücü: Kullanıcının girdiği metni küçük veya büyük harfe dönüştüren bir program.
+- Sayıların Toplamı: Kullanıcının girdiği bir dizi sayının toplamını hesaplayan bir program.
+- Kendi Bilgilerini Yazdırma: Kullanıcıdan ad, soyad ve yaş alarak bunları yazdıran bir program.
+
+<br><br><hr>
+
+## Temel Python Bilgisi
+
+- Fibonacci Dizisi: Fibonacci dizisini belirli bir sayıya kadar yazdıran bir program.
+- Asal Sayı Kontrolü: Kullanıcının girdiği bir sayının asal olup olmadığını kontrol eden bir program.
+- Kelime Sayacı: Kullanıcının girdiği bir metindeki kelime sayısını hesaplayan bir program.
+- Ters Çevirme: Kullanıcının girdiği bir kelimeyi tersine çeviren bir program.
+- Sayıların Ortalaması: Kullanıcının girdiği bir dizi sayının ortalamasını hesaplayan bir program.
+- Çift ve Tek Sayıları Ayırma: Kullanıcının girdiği sayılardan çift ve tek olanları ayıran bir program.
+- Harf Sayacı: Kullanıcının girdiği bir metindeki harflerin sayısını hesaplayan bir program.
+- Rastgele Sayı Üretici: Belirli bir aralıkta rastgele bir sayı üreten bir program.
+- Kelime Ters Çevirici: Kullanıcının girdiği her kelimeyi tersine çeviren bir program.
+- Sıralama Programı: Kullanıcının girdiği bir dizi sayıyı sıralayan bir program.
+
+<br><br><hr>
+
+## Kontrol Yapıları
+
+- Basit Not Hesaplama: Kullanıcının girdiği notlara göre harf notu veren bir program.
+- Yaş Kontrolü: Kullanıcının yaşına göre belirli bir mesaj veren bir program.
+- Sayı Tahmin Oyunu: Kullanıcının rastgele bir sayıyı tahmin etmeye çalıştığı bir oyun (geliştirilmiş versiyon).
+- Hava Durumu Uygulaması: Kullanıcının girdiği sıcaklığa göre kıyafet öneren bir program.
+- Çift ve Tek Sayı Kontrolü: Kullanıcının girdiği sayının çift mi yoksa tek mi olduğunu kontrol eden bir program.
+- Kullanıcı Girişi: Kullanıcı adı ve şifre kontrolü yapan bir program.
+- Basit Hesap Makinesi: Kullanıcının seçtiği işlemi yapabilen bir hesap makinesi.
+- Sıcaklık Dönüştürücü: Kullanıcının girdiği sıcaklığı Celsius'tan Fahrenheit'a veya tam tersine dönüştüren bir program.
+- Küçük-Büyük Harf Kontrolü: Kullanıcının girdiği bir metinde büyük harf olup olmadığını kontrol eden bir program.
+- Sayıların Pozitif veya Negatif Olup Olmadığını Kontrol Etme: Kullanıcının girdiği sayının pozitif, negatif veya sıfır olduğunu kontrol eden bir program.
+
+<br><br><hr>
+
+## Veri Yapıları
+- Liste ve Tuple Kullanımı: Kullanıcının girdiği sayıları liste ve tuple olarak saklayıp, her iki yapıyı da kullanarak işlemler yapan bir program.
+- Set ile Tekrarları Kaldırma: Kullanıcının girdiği bir listeden tekrar eden elemanları kaldıran bir program.
+- Dictionary ile Telefon Defteri: Kullanıcının isim ve telefon numaralarını saklayıp, arama yapabilen bir telefon defteri uygulaması.
+- Liste Sıralama: Kullanıcının girdiği bir listeyi sıralayan bir program.
+- Kelime Frekansı Hesaplama: Kullanıcının girdiği bir metindeki kelimelerin frekansını hesaplayan bir program.
+- Kullanıcı Bilgileri: Kullanıcıdan isim, yaş ve şehir bilgilerini alıp, bunları bir dictionary içinde saklayan bir program.
+- Set ile Ortak Eleman Bulma: İki set arasındaki ortak elemanları bulan bir program.
+- Liste Elemanlarını Ters Çevirme: Kullanıcının girdiği bir listeyi tersine çeviren bir program.
+- Dictionary ile Not Defteri: Kullanıcının ders notlarını saklayıp, notları güncelleyebilen bir not defteri uygulaması.
+- Liste ile En Büyük ve En Küçük Sayıyı Bulma: Kullanıcının girdiği bir listeden en büyük ve en küçük sayıyı bulan bir program.
 
 
-2. Temel Python Bilgisi
-Fibonacci Dizisi: Fibonacci dizisini belirli bir sayıya kadar yazdıran bir program.
-Asal Sayı Kontrolü: Kullanıcının girdiği bir sayının asal olup olmadığını kontrol eden bir program.
-Kelime Sayacı: Kullanıcının girdiği bir metindeki kelime sayısını hesaplayan bir program.
-Ters Çevirme: Kullanıcının girdiği bir kelimeyi tersine çeviren bir program.
-Sayıların Ortalaması: Kullanıcının girdiği bir dizi sayının ortalamasını hesaplayan bir program.
-Çift ve Tek Sayıları Ayırma: Kullanıcının girdiği sayılardan çift ve tek olanları ayıran bir program.
-Harf Sayacı: Kullanıcının girdiği bir metindeki harflerin sayısını hesaplayan bir program.
-Rastgele Sayı Üretici: Belirli bir aralıkta rastgele bir sayı üreten bir program.
-Kelime Ters Çevirici: Kullanıcının girdiği her kelimeyi tersine çeviren bir program.
-Sıralama Programı: Kullanıcının girdiği bir dizi sayıyı sıralayan bir program.
-3. Kontrol Yapıları
-Basit Not Hesaplama: Kullanıcının girdiği notlara göre harf notu veren bir program.
-Yaş Kontrolü: Kullanıcının yaşına göre belirli bir mesaj veren bir program.
-Sayı Tahmin Oyunu: Kullanıcının rastgele bir sayıyı tahmin etmeye çalıştığı bir oyun (geliştirilmiş versiyon).
-Hava Durumu Uygulaması: Kullanıcının girdiği sıcaklığa göre kıyafet öneren bir program.
-Çift ve Tek Sayı Kontrolü: Kullanıcının girdiği sayının çift mi yoksa tek mi olduğunu kontrol eden bir program.
-Kullanıcı Girişi: Kullanıcı adı ve şifre kontrolü yapan bir program.
-Basit Hesap Makinesi: Kullanıcının seçtiği işlemi yapabilen bir hesap makinesi.
-Sıcaklık Dönüştürücü: Kullanıcının girdiği sıcaklığı Celsius'tan Fahrenheit'a veya tam tersine dönüştüren bir program.
-Küçük-Büyük Harf Kontrolü: Kullanıcının girdiği bir metinde büyük harf olup olmadığını kontrol eden bir program.
-Sayıların Pozitif veya Negatif Olup Olmadığını Kontrol Etme: Kullanıcının girdiği sayının pozitif, negatif veya sıfır olduğunu kontrol eden bir program.
-4. Veri Yapıları
-** Liste ve Tuple Kullanımı**: Kullanıcının girdiği sayıları liste ve tuple olarak saklayıp, her iki yapıyı da kullanarak işlemler yapan bir program.
-Set ile Tekrarları Kaldırma: Kullanıcının girdiği bir listeden tekrar eden elemanları kaldıran bir program.
-Dictionary ile Telefon Defteri: Kullanıcının isim ve telefon numaralarını saklayıp, arama yapabilen bir telefon defteri uygulaması.
-Liste Sıralama: Kullanıcının girdiği bir listeyi sıralayan bir program.
-Kelime Frekansı Hesaplama: Kullanıcının girdiği bir metindeki kelimelerin frekansını hesaplayan bir program.
-Kullanıcı Bilgileri: Kullanıcıdan isim, yaş ve şehir bilgilerini alıp, bunları bir dictionary içinde saklayan bir program.
-Set ile Ortak Eleman Bulma: İki set arasındaki ortak elemanları bulan bir program.
-Liste Elemanlarını Ters Çevirme: Kullanıcının girdiği bir listeyi tersine çeviren bir program.
-Dictionary ile Not Defteri: Kullanıcının ders notlarını saklayıp, notları güncelleyebilen bir not defteri uygulaması.
-Liste ile En Büyük ve En Küçük Sayıyı Bulma: Kullanıcının girdiği bir listeden en büyük ve en küçük sayıyı bulan bir program.
-5. Fonksiyonlar
+<br><br><hr>
+
+## Fonksiyonlar
 Faktöriyel Hesaplama: Kullanıcının girdiği bir sayının faktöriyelini hesaplayan bir fonksiyon.
 Kelime Ters Çevirme Fonksiyonu: Bir kelimeyi tersine çeviren bir fonksiyon.
 Sayıların Toplamı: Bir dizi sayının toplamını hesaplayan bir fonksiyon.
