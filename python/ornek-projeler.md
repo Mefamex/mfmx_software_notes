@@ -9,6 +9,8 @@ Kendi Adını Yazdırma: Kullanıcının adını alıp, "Benim adım [isim]" şe
 Küçük-Büyük Harf Dönüştürücü: Kullanıcının girdiği metni küçük veya büyük harfe dönüştüren bir program.
 Sayıların Toplamı: Kullanıcının girdiği bir dizi sayının toplamını hesaplayan bir program.
 Kendi Bilgilerini Yazdırma: Kullanıcıdan ad, soyad ve yaş alarak bunları yazdıran bir program.
+
+
 2. Temel Python Bilgisi
 Fibonacci Dizisi: Fibonacci dizisini belirli bir sayıya kadar yazdıran bir program.
 Asal Sayı Kontrolü: Kullanıcının girdiği bir sayının asal olup olmadığını kontrol eden bir program.
