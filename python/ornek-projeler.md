@@ -4,6 +4,9 @@
 
 > 2025-02-17
 
+
+
+
 ## Python'a Giriş
 
 - Merhaba Dünya Programı: Basit bir "Merhaba Dünya" yazdırma programı.
