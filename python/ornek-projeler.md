@@ -7,7 +7,6 @@
 
 
 
-
 ## Python'a Giriş
 
 - Merhaba Dünya Programı: Basit bir "Merhaba Dünya" yazdırma programı.
