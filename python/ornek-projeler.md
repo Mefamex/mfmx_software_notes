@@ -1,5 +1,14 @@
 <h1 align="center"> PYTHON ÖRNEK PROJELER</h1>
 
+
+> [ÜST DİZİN  (Python Notes) ](readme.md)
+
+<hr>
+<br/>
+
+
+
+
 > Bu sayfada, Python programlama dilinin temel konularından ileri düzey konularına kadar kodlıyabileceğiniz çeşitli proje örnekleri ve uygulamalar yer almaktadır.
 
 > 2025-02-17

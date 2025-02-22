@@ -23,7 +23,7 @@ Bu repo'yu yazılım dilleri ve frameworklar hakkında bazı notlarımı tutmak 
     - [Async Tetikleyici Sınıfı](c-sharp/readme.md/#async-tetikleyici-sınıfı-şablonu)
 * [PYTHON](python/readme.md)
     - [Örnek Projeler](python/ornek-projeler.md)
-    - [İlk Çalıştırma (gereksinimleri otomatik yükleme)](python/README.md#first-run-dependencies)
+    - [İlk Çalıştırma (gereksinimleri otomatik yükleme)](python/readme.md#first-run-dependencies)
 * [Batch](batch/readme.md)
     - [Network Reset](batch/network-reset.bat)
 * [SQL - MySql](sql/readme.md)
