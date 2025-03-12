@@ -1,0 +1,16 @@
+uv run main.py --active
+
+pause
+exit
+
+
+
+
+
+LICENCE
+LICENCE.txt
+pyproject.toml
+README.md
+uv.lock
+*.py
+[and all extra files which you create manually]
