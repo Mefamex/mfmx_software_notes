@@ -12,91 +12,101 @@
 #!/usr/bin/env python3 
 # -*- coding: utf-8 -*- 
 
-__project_name__ = "ornek-proje"
-__project_version__ = "1.0.0"
+"""
+===========================================================
+                ornek-proje
+===========================================================
+
+Description:
+    Bu proje, [kısa bir şekilde projenin amacını belirtin] amacıyla geliştirilmiştir.
+    Proje, [projedeki ana özellikler ve işlevler listesi] özelliklerine sahiptir.
+
+Author:
+    Ad (posta@posta.com) (https://web_sitesi.com)
+
+Features: 
+    - Ozellikleri madde madde veya metin olarak yazabilirsiniz.
+
+Modules:
+    - modul1: [Modul 1 açıklaması]
+    - modul2: [Modul 2 açıklaması]
+    - ...
+
+Classes:
+    - Sinif1: [Sinif1 açıklaması]
+    - Sinif2: [Sinif2 açıklaması]
+    - ...
+
+Functions:
+    - fonksiyon1(parametre1, parametre2): [Fonksiyon1 açıklaması]
+    - fonksiyon2(parametre1): [Fonksiyon2 açıklaması]
+    - ...
+
+Usage:
+    [Projeyi nasıl kullanacağınızı açıklayın. Örnekler ekleyebilirsiniz.]
+
+Requirements:
+    - Python 3.8 veya üstü
+    - Dependencies:
+        - paket1 (>= sürüm)
+        - paket2 (latest)
+        - ...
+
+Installation:
+    - Proje klonlama: `git clone [repo adresi]` 
+    - Gerekli bağımlılıkları kurma: `pip install -r requirements.txt`
+
+Documentation: 
+    - Detaylı belgeler için: `README.md` 
+
+License:
+    MIT Lisansı (https://opensource.org/licenses/MIT)
+
+Changelog:
+    - 1.0.0 (2024-02-03): İlk sürüm
+    - 1.1.0 (2024-02-04): [Yapılan değişiklikler]
+    - ...
+
+Contributors:
+    [Projeye katkıda bulunanların adları ve iletişim bilgileri]
+
+Contact:
+    [Projeye ilişkin sorular için e-posta adresi veya diğer iletişim bilgileri]
+
+Additional Information:
+    [Projeye ilişkin ek bilgiler, bağlantılar, belgeler vb.]
+
+Notes:
+    - Bu proje, [proje amacını ve kullanımını açıklayan kısa bir not] içermektedir.
+    - Proje, [proje ile ilgili önemli notlar veya uyarılar] içermektedir.
+
+Disclaimer and Legal Notice:
+    Bu yazılım, herhangi bir garanti olmaksızın "olduğu gibi" sağlanmaktadır. Yazar, bu yazılımın kullanımı sonucunda oluşabilecek herhangi bir zarardan sorumlu değildir. Kullanıcılar, yazılımı kendi sorumlulukları altında kullanmalıdır.
+    Bu yazılım, açık kaynak lisansı altında dağıtılmaktadır ve kullanıcılar, lisans koşullarına uymakla yükümlüdür. Yazılımın herhangi bir şekilde değiştirilmesi, dağıtılması veya kullanılması, lisans koşullarına uygun olarak yapılmalıdır.
+===========================================================
+"""
+
+__version__ = "1.0.0"
 __author__ = "topluluk veya kisi adi"
 __email__ = "posta@posta.com"
-__url__ = "https://website.com/ornek-proje"
 __license__ = "MIT"
-__copyright__ = "Telif Hakki (c) 2050 company"
-__description__ = "Ornek Proje"
+__status__ = "DEVELOPMENT"  # or PRODUCTION, BETA, ALPHA, PROTOTYPE, STABLE, DEPRECATED, MAINTENANCE, EXPERIMENTAL, PREVIEW, ARCHIVED
+
+__project_name__ = "ornek-proje"
+__url__ = "https://website.com/ornek-proje"
 __url_github__ = "https://github.com/kullanici/ornek-proje"
-__status__ = "Development"  # or Production, Beta, Alpha, Prototype, Stable, Deprecated, Maintenance, Experimental, Preview, Archived
+__copyright__ = "Telif Hakki (c) 2050 company"
+__description__ = "Ornek Proje açıklama"
 __date__ = "2024-02-03" # YYYY-MM-DD
 __date_modify__ = "2024-02-04" # YYYY-MM-DD
 __python_version__ = ">=3.8" 
 __dependencies__ = {
     "python": ">=3.8",
     "package1": ">=1.0.0",
-    "package2": None,  # or a specific version
+    "package2": None,  # latest or specific version
     # ...
 }
 
-___doc___ = """
-Proje Adi: Ornek Proje
-
-Aciklama:
-Bu proje, [kisa bir sekilde projenin amacini belirtin] amaciyla gelistirilmistir.
-Proje, [projedeki ana ozellikler ve islevler listesi] ozelliklerine sahiptir.
-
-Ozellikler: 
-    - Ozellikleri madde madde veya metin olarak yazabilirsiniz.
-
-Moduller:
-- modul1: [Modul 1 aciklamasi]
-- modul2: [Modul 2 aciklamasi]
-- ...
-
-Siniflar:
-- Sinif1: [Sinif 1 aciklamasi]
-- Sinif2: [Sinif 2 aciklamasi]
-- ...
-
-Fonksiyonlar:
-- fonksiyon1(parametre1, parametre2): [Fonksiyon 1 aciklamasi]
-- fonksiyon2(parametre1): [Fonksiyon 2 aciklamasi]
-- ...
-
-Kullanim:
-[Projeyi nasil kullanacağinizi aciklayin. Ornekler ekleyebilirsiniz.]
-
-Gereksinimler:
-- Python 3.8 veya ustu
-- Bağimliliklar:
-    - paket1 (>= surum)
-    - paket2
-    - ...
-
-Kurulum:
-  - Proje klonlama: ​​`git clone [repo adresi]` 
-  - Gerekli bağimliliklari kurma: `pip install -r requirements.txt`
-
-Belgeler: 
-  - Detayli belgeler icin: `README.md` 
-
-Lisans:
-MIT Lisansi (https://opensource.org/licenses/MIT)
-
-Yazar:
-Ad (posta@posta.com) (https://web_sitesi.com)
-
-Katkida Bulunanlar:
-[Projeye katkida bulunanlarin adlari ve iletisim bilgileri]
-
-Tarihce:
-- 1.0.0 (2024-02-03): Ilk surum
-- 1.1.0 (2024-02-04): [Yapilan değisiklikler]
-- ...
-
-Iletisim:
-[Projeye iliskin sorular icin e-posta adresi veya diğer iletisim bilgileri]
-
-Ek Bilgiler:
-[Projeye iliskin ek bilgiler, bağlantilar, belgeler vb.]
-
-Sorumluluk Reddi: 
-    Bu yazilim "olduğu gibi" sunulmaktadir. Yazar, bu yazilimin kullanimi sonucunda ortaya cikan herhangi bir zarardan sorumlu değildir.
-"""
 
 # Projenin ana kodlari buraya gelir
 ```
