@@ -11,9 +11,9 @@
 
 - [Docstring Projects](#docstring-projects)
   - [Amaçları](#amaçları)
-  - [Yaml Docs (project.yaml)](Project.yaml.readme.md)
-  - [Python](PYTHON-DOCSTRING.readme.md)
   - [C# ](CS-DOCSTRING.readme.md)
+  - [Python](PYTHON-DOCSTRING.readme.md)
+  - [Yaml Docs (project.yaml)](Project.yaml.readme.md)
 
 <hr><br/><br/>
 
