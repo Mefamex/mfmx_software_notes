@@ -24,38 +24,30 @@
 
 
 
-## Amaçları
-> **Kodun Amacını Açıklar:**
->> Kodun ne işe yaradığını, hangi problemi çözdüğünü veya hangi işlevi yerine getirdiğini net bir şekilde ifade eder.
+## DOCSTRING Avantajları
 
-<br>
 
-> **Yazar ve İletişim Bilgilerini Belirtme:**
->> Kodun yazarı ve iletişim bilgileri, kodla ilgili soruları olan veya sorun yaşayan kişilerin size ulaşabilmesini sağlar.
+Modül veya dosya için docstring kullanmak, kodun amacını ve kullanım şeklini açıkça belirtir.
 
-<br>
+Yazar, tarih, sürüm gibi temel bilgileri standart bir formatta sunar.
 
-> **Oluşturulma ve Değiştirilme Tarihlerini Kaydetme:**
->> Kodun oluşturulma ve değiştirilme tarihleri, kodun geçmişini takip etmeye ve farklı sürümlerini karşılaştırmaya yardımcı olur.
+Sürüm kontrolü ve değişiklik geçmişinin takibini kolaylaştırır.
 
-<br>
+Kullanıcıların ve geliştiricilerin modülü hızlıca anlamasını ve doğru şekilde kullanmasını sağlar.
 
-> **Lisans Bilgilerini Açıklama:**
->> Kodun hangi lisans altında kullanılabileceğini belirtmek, telif haklarını korumak ve kodun yasal bir şekilde kullanılmasını sağlamak için kritik önem taşır.
+Proje hakkında genel ve özet bilgi verir, böylece yeni katılımcıların projeye adapte olmasını hızlandırır.
 
-<br>
+Geliştiriciler ve kullanıcılar için sürekli başvurulabilecek merkezi bir referans noktası oluşturur.
 
-> **Bağımlılıkları ve Gereksinimleri Listeleme:**
->> Kodun çalışması için gerekli olan diğer yazılımları, kütüphaneleri veya donanımları belirtmek, kodun doğru bir şekilde çalıştırılmasını sağlamak için gereklidir.
+Proje belgelerinin temelini oluşturur ve dokümantasyonun bütünlüğünü sağlar.
 
-<br>
+Proje yapısını, modüllerini ve önemli bileşenlerini sistematik olarak tanımlar.
 
-> **Kullanım Talimatlarını Verme:**
->> Kodun nasıl kullanıldığını, hangi parametrelerin gerektiğini veya hangi adımların izlenmesi gerektiğini açıklamak, kullanıcıların kodu kolayca kullanabilmesini sağlar.
+Proje ile ilgili önemli bilgileri ve uyarıları tek bir yerde toplar.
 
-> **Ek Bilgiler ve Notlar Ekleme:**
->> Kodla ilgili ek bilgiler, notlar veya uyarılar eklemek, kodun daha iyi anlaşılmasına ve olası sorunların önlenmesine yardımcı olur.
+Proje hakkında bilgi edinmeyi ve projeye katkıda bulunmayı teşvik eder.
 
+Zaman içinde hem kendinizin hem de başkalarının projeyi daha kolay anlamasını ve sürdürebilmesini sağlar.
 
 
 <br/> 
