@@ -109,4 +109,16 @@ __dependencies__ = {
 
 
 # Projenin ana kodlari buraya gelir
+#================================================================================
+#============================ SEPARATER =========================================
+
 ```
+
+<br><br><hr>
+
+*Last Modify: 2025-07-19*
+
+Connected : 
+[website](https://mefamex.com/projects)
+,
+[Github](https://github.com/Mefamex/PYTHON_CODE_SNIPPETS)
