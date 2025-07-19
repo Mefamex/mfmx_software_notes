@@ -116,9 +116,8 @@ __dependencies__ = {
 
 <br><br><hr>
 
-*Last Modify: 2025-07-19*
+*Last Modify: 2025-07-20*
 
-Connected : 
-[website](https://mefamex.com/projects)
-,
-[Github](https://github.com/Mefamex/PYTHON_CODE_SNIPPETS)
+>    Connected : 
+><br> - [website/projects](https://mefamex.com/projects)
+><br> - [Github/Mefamex/python-code-snippets](https://github.com/Mefamex/python-code-snippets)
